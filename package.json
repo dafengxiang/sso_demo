@@ -1,0 +1,24 @@
+{
+  "name": "sso_demo",
+  "version": "1.0.0",
+  "description": "A sso login demo base on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafengxiang/sso_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafengxiang/sso_demo/issues"
+  },
+  "homepage": "https://github.com/dafengxiang/sso_demo#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}

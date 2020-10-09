@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+npm
+.idea/
+/npm install
+/npm run dev
+./dist.zip
+logs/
+# config/index.js
